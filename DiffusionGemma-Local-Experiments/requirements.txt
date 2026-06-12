@@ -1,0 +1,6 @@
+huggingface_hub
+llama-cpp-python
+accelerate
+transformers
+torch
+numpy
